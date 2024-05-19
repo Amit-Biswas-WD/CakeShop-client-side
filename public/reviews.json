@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "1",
+    "name": "Sweet Treats Bakery",
+    "details": "A cozy bakery offering a wide variety of cakes, pastries, and bread. Known for our custom cake designs and friendly atmosphere.",
+    "rating": 4.5
+  },
+  {
+    "_id": "2",
+    "name": "Heavenly Cakes",
+    "details": "Specializes in wedding cakes and custom dessert tables. We use only the finest ingredients for our artisanal cakes.",
+    "rating": 3.8
+  },
+  {
+    "_id": "3",
+    "name": "Cake Delights",
+    "details": "Family-owned bakery with a passion for creating beautiful and delicious cakes for all occasions.",
+    "rating": 4.7
+  },
+  {
+    "_id": "4",
+    "name": "The Cake House",
+    "details": "Offering a unique blend of traditional and contemporary cake designs, perfect for birthdays and celebrations.",
+    "rating": 2.9
+  },
+  {
+    "_id": "5",
+    "name": "Dream Cakes",
+    "details": "Our cakes are not only visually stunning but also incredibly flavorful. Specializing in themed cakes and dessert buffets.",
+    "rating": 4.8
+  },
+  {
+    "_id": "6",
+    "name": "Bakers' Delight",
+    "details": "A favorite among locals for our fresh, handmade cakes and pastries. We also offer baking classes for enthusiasts.",
+    "rating": 4.1
+  },
+  {
+    "_id": "7",
+    "name": "Cupcake Heaven",
+    "details": "Famous for our wide range of cupcakes and mini cakes. Perfect for both casual and formal events.",
+    "rating": 4.3
+  },
+  {
+    "_id": "8",
+    "name": "Gourmet Cake Shop",
+    "details": "Providing luxurious cakes with premium ingredients. Our specialties include mousse cakes and exotic flavors.",
+    "rating": 3.8
+  }
+]
