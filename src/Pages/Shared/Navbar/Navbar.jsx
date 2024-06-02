@@ -1,17 +1,73 @@
+import { useContext } from "react";
 import { Link } from "react-router-dom";
+import { AuthContext } from "../../../Providers/AuthContextProvider";
+import { FaCartPlus } from "react-icons/fa6";
+import useCart from "../../../hooks/useCart";
+import useAdmin from "../../../hooks/useAdmin";
 
 const Navbar = () => {
+  const { user, logOut } = useContext(AuthContext);
+  const [cart] = useCart();
+  const [isAdmin] = useAdmin();
+  const handleLouOut = () => {
+    logOut()
+      .then(() => {})
+      .catch((error) => console.log(error));
+  };
   const Options = (
     <>
       <li>
         <Link to={"/"}>Home</Link>
       </li>
       <li>
-        <Link to={"/menu"}>Menu</Link>
+        <Link to={"menu"}>Menu</Link>
       </li>
       <li>
-        <Link to={"/order/Chocolate"}>Order Food</Link>
+        <Link to={"order/Chocolate"}>Order Food</Link>
       </li>
+      {/* <li>
+          <Link to={"secret"}>Secret</Link>
+        </li> */}
+      {
+        // user ? "true" : "false"
+        // user ? "conditional" ? "double true" : "on true" : "false"
+      }
+      {user && isAdmin && (
+        <li>
+          <Link to={"/dashboard/adminhome"}>Dashboard</Link>
+        </li>
+      )}
+      {user && !isAdmin && (
+        <li>
+          <Link to={"/dashboard/userHome"}>Dashboard</Link>
+        </li>
+      )}
+      <li>
+        <Link to={"/dashboard/card"}>
+          <button className="btn">
+            <FaCartPlus />
+            <div className="badge badge-secondary">+{cart.length}</div>
+          </button>
+        </Link>
+      </li>
+
+      {user ? (
+        <>
+          {/* <span>{user?.displayName}</span> */}
+          <button
+            onClick={handleLouOut}
+            className="btn glass text-white bg-purple-700 hover:bg-black"
+          >
+            Log Out
+          </button>
+        </>
+      ) : (
+        <>
+          <li>
+            <Link to={"login"}>Login</Link>
+          </li>
+        </>
+      )}
     </>
   );
   return (

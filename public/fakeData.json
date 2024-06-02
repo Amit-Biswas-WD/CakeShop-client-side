@@ -1,6 +1,5 @@
 [
   {
-    "_id": "1",
     "name": "Chocolate Fudge Cake",
     "recipe": "Rich and moist chocolate cake layered with creamy chocolate fudge.",
     "image": "https://i.ibb.co/KLwGR6M/1.jpg",
@@ -8,7 +7,6 @@
     "price": 20.99
   },
   {
-    "_id": "2",
     "name": "Vanilla Bean Cake",
     "recipe": "Classic vanilla cake with a hint of fresh vanilla bean.",
     "image": "https://i.ibb.co/JtvgdzM/2.jpg",
@@ -16,7 +14,6 @@
     "price": 18.5
   },
   {
-    "_id": "63",
     "name": "Vanilla Bean Cake",
     "recipe": "Classic vanilla cake with a hint of fresh vanilla bean.",
     "image": "https://i.ibb.co/JtvgdzM/2.jpg",
@@ -24,7 +21,6 @@
     "price": 18.5
   },
   {
-    "_id": "3",
     "name": "Red Velvet Cake",
     "recipe": "Soft red velvet layers with a tangy cream cheese frosting.",
     "image": "https://i.ibb.co/GPFfQz3/3.jpg",
@@ -32,7 +28,6 @@
     "price": 22.75
   },
   {
-    "_id": "66",
     "name": "Red Velvet Cake",
     "recipe": "Soft red velvet layers with a tangy cream cheese frosting.",
     "image": "https://i.ibb.co/GPFfQz3/3.jpg",
@@ -40,7 +35,6 @@
     "price": 22.75
   },
   {
-    "_id": "4",
     "name": "Lemon Drizzle Cake",
     "recipe": "Zesty lemon cake with a sweet and tangy drizzle.",
     "image": "https://i.ibb.co/tB2b9xW/4.jpg",
@@ -48,7 +42,6 @@
     "price": 19.0
   },
   {
-    "_id": "68",
     "name": "Lemon Drizzle Cake",
     "recipe": "Zesty lemon cake with a sweet and tangy drizzle.",
     "image": "https://i.ibb.co/tB2b9xW/4.jpg",
@@ -56,7 +49,6 @@
     "price": 19.0
   },
   {
-    "_id": "5",
     "name": "Strawberry Shortcake",
     "recipe": "Light sponge cake topped with fresh strawberries and whipped cream.",
     "image": "https://i.ibb.co/RvjD1Kg/5.jpg",
@@ -64,7 +56,6 @@
     "price": 21.5
   },
   {
-    "_id": "6",
     "name": "Black Forest Cake",
     "recipe": "Chocolate sponge cake with cherries and whipped cream.",
     "image": "https://i.ibb.co/z6gHrSD/6.jpg",
@@ -72,7 +63,6 @@
     "price": 23.99
   },
   {
-    "_id": "7",
     "name": "Carrot Cake",
     "recipe": "Moist carrot cake with walnuts and cream cheese frosting.",
     "image": "https://i.ibb.co/v1zXjJ1/7.jpg",
@@ -80,7 +70,6 @@
     "price": 17.0
   },
   {
-    "_id": "61",
     "name": "Carrot Cake",
     "recipe": "Moist carrot cake with walnuts and cream cheese frosting.",
     "image": "https://i.ibb.co/v1zXjJ1/7.jpg",
@@ -88,7 +77,6 @@
     "price": 17.0
   },
   {
-    "_id": "8",
     "name": "Tiramisu Cake",
     "recipe": "Classic Italian tiramisu in cake form, with layers of sponge and mascarpone cheese.",
     "image": "https://i.ibb.co/10j2rKK/8.jpg",
@@ -96,7 +84,6 @@
     "price": 25.0
   },
   {
-    "_id": "9",
     "name": "Coconut Cake",
     "recipe": "Light and fluffy coconut cake with coconut cream frosting.",
     "image": "https://i.ibb.co/SsqCD4Y/9.jpg",
@@ -104,7 +91,6 @@
     "price": 20.0
   },
   {
-    "_id": "10",
     "name": "Pumpkin Spice Cake",
     "recipe": "Seasonal pumpkin cake with warm spices and cream cheese frosting.",
     "image": "https://i.ibb.co/tx62YWR/10.jpg",
@@ -112,7 +98,6 @@
     "price": 22.0
   },
   {
-    "_id": "11",
     "name": "Matcha Green Tea Cake",
     "recipe": "Moist matcha green tea cake with a creamy matcha frosting.",
     "image": "https://i.ibb.co/T0TtvnC/11.jpg",
@@ -120,7 +105,6 @@
     "price": 24.0
   },
   {
-    "_id": "12",
     "name": "Mango Mousse Cake",
     "recipe": "Light and airy mango mousse layered with sponge cake.",
     "image": "https://i.ibb.co/Y21tqPN/12.jpg",
@@ -128,7 +112,6 @@
     "price": 21.0
   },
   {
-    "_id": "13",
     "name": "Peanut Butter Cake",
     "recipe": "Rich peanut butter cake with a smooth peanut butter frosting.",
     "image": "https://i.ibb.co/GCk63jD/13.jpg",
@@ -136,7 +119,6 @@
     "price": 20.5
   },
   {
-    "_id": "14",
     "name": "Banana Cake",
     "recipe": "Moist banana cake with a creamy vanilla frosting.",
     "image": "https://i.ibb.co/HPtVwm7/14.jpg",
@@ -144,7 +126,6 @@
     "price": 18.75
   },
   {
-    "_id": "15",
     "name": "Pistachio Cake",
     "recipe": "Delicate pistachio cake with a light pistachio frosting.",
     "image": "https://i.ibb.co/BK8Y9hZ/15.jpg",
@@ -152,7 +133,6 @@
     "price": 23.0
   },
   {
-    "_id": "16",
     "name": "Blueberry Cheesecake",
     "recipe": "Creamy cheesecake with a blueberry topping and graham cracker crust.",
     "image": "https://i.ibb.co/Xj6SdN4/16.jpg",
@@ -160,7 +140,6 @@
     "price": 26.5
   },
   {
-    "_id": "17",
     "name": "Espresso Cake",
     "recipe": "Rich coffee cake with layers of espresso buttercream.",
     "image": "https://i.ibb.co/gZJbb3C/17.jpg",
@@ -168,7 +147,6 @@
     "price": 24.5
   },
   {
-    "_id": "18",
     "name": "Almond Cake",
     "recipe": "Moist almond cake with a hint of almond extract and almond frosting.",
     "image": "https://i.ibb.co/TTLFppx/18.jpg",
@@ -176,7 +154,6 @@
     "price": 22.25
   },
   {
-    "_id": "19",
     "name": "Mocha Cake",
     "recipe": "Chocolate and coffee flavored cake with mocha frosting.",
     "image": "https://i.ibb.co/0K0jB3J/19.jpg",
@@ -184,7 +161,6 @@
     "price": 23.75
   },
   {
-    "_id": "20",
     "name": "Raspberry Lemon Cake",
     "recipe": "Zesty lemon cake with a sweet raspberry frosting.",
     "image": "https://i.ibb.co/wrQ86LG/20.jpg",
@@ -192,7 +168,6 @@
     "price": 21.5
   },
   {
-    "_id": "21",
     "name": "Cherry Almond Cake",
     "recipe": "Almond flavored cake with cherry filling and almond frosting.",
     "image": "https://i.ibb.co/NmQhsfs/21.jpg",
@@ -200,7 +175,6 @@
     "price": 22.0
   },
   {
-    "_id": "22",
     "name": "Hazelnut Cake",
     "recipe": "Rich hazelnut cake with a creamy hazelnut frosting.",
     "image": "https://i.ibb.co/kGgK2mn/22.jpg",
@@ -208,7 +182,6 @@
     "price": 24.0
   },
   {
-    "_id": "23",
     "name": "Cinnamon Roll Cake",
     "recipe": "Soft and fluffy cinnamon roll cake with a sweet glaze.",
     "image": "https://i.ibb.co/qg2nkXV/23.jpg",
@@ -216,7 +189,6 @@
     "price": 20.5
   },
   {
-    "_id": "24",
     "name": "Cranberry Orange Cake",
     "recipe": "Zesty orange cake with tart cranberry filling.",
     "image": "https://i.ibb.co/RpMLVLW/24.jpg",
@@ -224,7 +196,6 @@
     "price": 21.75
   },
   {
-    "_id": "25",
     "name": "Chocolate Raspberry Cake",
     "recipe": "Rich chocolate cake with raspberry filling and chocolate frosting.",
     "image": "https://i.ibb.co/ySFwYL6/25.jpg",
@@ -232,7 +203,6 @@
     "price": 24.5
   },
   {
-    "_id": "26",
     "name": "Chocolate Fudge Cake",
     "recipe": "Rich and moist chocolate cake layered with creamy chocolate fudge.",
     "image": "https://i.ibb.co/446TZxV/26.jpg",
@@ -240,7 +210,6 @@
     "price": 20.99
   },
   {
-    "_id": "27",
     "name": "Vanilla Bean Cake",
     "recipe": "Classic vanilla cake with a hint of fresh vanilla bean.",
     "image": "https://i.ibb.co/724tSb0/27.jpg",
@@ -248,7 +217,6 @@
     "price": 18.5
   },
   {
-    "_id": "64",
     "name": "Vanilla Bean Cake",
     "recipe": "Classic vanilla cake with a hint of fresh vanilla bean.",
     "image": "https://i.ibb.co/724tSb0/27.jpg",
@@ -256,7 +224,6 @@
     "price": 18.5
   },
   {
-    "_id": "28",
     "name": "Red Velvet Cake",
     "recipe": "Soft red velvet layers with a tangy cream cheese frosting.",
     "image": "https://i.ibb.co/F7Bd0gJ/28.jpg",
@@ -264,7 +231,6 @@
     "price": 22.75
   },
   {
-    "_id": "65",
     "name": "Red Velvet Cake",
     "recipe": "Soft red velvet layers with a tangy cream cheese frosting.",
     "image": "https://i.ibb.co/F7Bd0gJ/28.jpg",
@@ -272,7 +238,6 @@
     "price": 22.75
   },
   {
-    "_id": "29",
     "name": "Lemon Drizzle Cake",
     "recipe": "Zesty lemon cake with a sweet and tangy drizzle.",
     "image": "https://i.ibb.co/7gTz7kC/29.jpg",
@@ -280,7 +245,6 @@
     "price": 19.0
   },
   {
-    "_id": "67",
     "name": "Lemon Drizzle Cake",
     "recipe": "Zesty lemon cake with a sweet and tangy drizzle.",
     "image": "https://i.ibb.co/7gTz7kC/29.jpg",
@@ -288,7 +252,6 @@
     "price": 19.0
   },
   {
-    "_id": "30",
     "name": "Strawberry Shortcake",
     "recipe": "Light sponge cake topped with fresh strawberries and whipped cream.",
     "image": "https://i.ibb.co/JnHK9db/30.jpg",
@@ -296,7 +259,6 @@
     "price": 21.5
   },
   {
-    "_id": "31",
     "name": "Black Forest Cake",
     "recipe": "Chocolate sponge cake with cherries and whipped cream.",
     "image": "https://i.ibb.co/NKnTzVx/31.jpg",
@@ -304,7 +266,6 @@
     "price": 23.99
   },
   {
-    "_id": "32",
     "name": "Carrot Cake",
     "recipe": "Moist carrot cake with walnuts and cream cheese frosting.",
     "image": "https://i.ibb.co/n0rx6pR/32.jpg",
@@ -312,7 +273,6 @@
     "price": 17.0
   },
   {
-    "_id": "62",
     "name": "Carrot Cake",
     "recipe": "Moist carrot cake with walnuts and cream cheese frosting.",
     "image": "https://i.ibb.co/n0rx6pR/32.jpg",
@@ -320,7 +280,6 @@
     "price": 17.0
   },
   {
-    "_id": "33",
     "name": "Tiramisu Cake",
     "recipe": "Classic Italian tiramisu in cake form, with layers of sponge and mascarpone cheese.",
     "image": "https://i.ibb.co/3kszk71/33.jpg",
@@ -328,7 +287,6 @@
     "price": 25.0
   },
   {
-    "_id": "34",
     "name": "Coconut Cake",
     "recipe": "Light and fluffy coconut cake with coconut cream frosting.",
     "image": "https://i.ibb.co/K2SrB4D/34.jpg",
@@ -336,7 +294,6 @@
     "price": 20.0
   },
   {
-    "_id": "35",
     "name": "Pumpkin Spice Cake",
     "recipe": "Seasonal pumpkin cake with warm spices and cream cheese frosting.",
     "image": "https://i.ibb.co/kx5t4Ln/35.jpg",
@@ -344,7 +301,6 @@
     "price": 22.0
   },
   {
-    "_id": "36",
     "name": "Matcha Green Tea Cake",
     "recipe": "Moist matcha green tea cake with a creamy matcha frosting.",
     "image": "https://i.ibb.co/3crjdDb/36.jpg",
@@ -352,7 +308,6 @@
     "price": 24.0
   },
   {
-    "_id": "37",
     "name": "Mango Mousse Cake",
     "recipe": "Light and airy mango mousse layered with sponge cake.",
     "image": "https://i.ibb.co/0y2D4HX/37.jpg",
@@ -360,7 +315,6 @@
     "price": 21.0
   },
   {
-    "_id": "38",
     "name": "Peanut Butter Cake",
     "recipe": "Rich peanut butter cake with a smooth peanut butter frosting.",
     "image": "https://i.ibb.co/JnqjdhF/38.jpg",
@@ -368,7 +322,6 @@
     "price": 20.5
   },
   {
-    "_id": "39",
     "name": "Banana Cake",
     "recipe": "Moist banana cake with a creamy vanilla frosting.",
     "image": "https://i.ibb.co/h7zPcjP/39.jpg",
@@ -376,7 +329,6 @@
     "price": 18.75
   },
   {
-    "_id": "40",
     "name": "Pistachio Cake",
     "recipe": "Delicate pistachio cake with a light pistachio frosting.",
     "image": "https://i.ibb.co/R31vbCH/40.jpg",
@@ -384,7 +336,6 @@
     "price": 23.0
   },
   {
-    "_id": "41",
     "name": "Blueberry Cheesecake",
     "recipe": "Creamy cheesecake with a blueberry topping and graham cracker crust.",
     "image": "https://i.ibb.co/Bgh67hZ/41.jpg",
@@ -392,7 +343,6 @@
     "price": 26.5
   },
   {
-    "_id": "42",
     "name": "Espresso Cake",
     "recipe": "Rich coffee cake with layers of espresso buttercream.",
     "image": "https://i.ibb.co/VjX9FLZ/42.jpg",
@@ -400,7 +350,6 @@
     "price": 24.5
   },
   {
-    "_id": "43",
     "name": "Almond Cake",
     "recipe": "Moist almond cake with a hint of almond extract and almond frosting.",
     "image": "https://i.ibb.co/MVWgfhL/43.jpg",
@@ -408,7 +357,6 @@
     "price": 22.25
   },
   {
-    "_id": "44",
     "name": "Mocha Cake",
     "recipe": "Chocolate and coffee flavored cake with mocha frosting.",
     "image": "https://i.ibb.co/nbbzdrF/44.jpg",
@@ -416,7 +364,6 @@
     "price": 23.75
   },
   {
-    "_id": "45",
     "name": "Raspberry Lemon Cake",
     "recipe": "Zesty lemon cake with a sweet raspberry frosting.",
     "image": "https://i.ibb.co/bmgp4RF/45.jpg",
@@ -424,7 +371,6 @@
     "price": 21.5
   },
   {
-    "_id": "46",
     "name": "Cherry Almond Cake",
     "recipe": "Almond flavored cake with cherry filling and almond frosting.",
     "image": "https://i.ibb.co/fMGfD5h/46.jpg",
@@ -432,7 +378,6 @@
     "price": 22.0
   },
   {
-    "_id": "47",
     "name": "Hazelnut Cake",
     "recipe": "Rich hazelnut cake with a creamy hazelnut frosting.",
     "image": "https://i.ibb.co/FsVGqvs/47.jpg",
@@ -440,7 +385,6 @@
     "price": 24.0
   },
   {
-    "_id": "48",
     "name": "Cinnamon Roll Cake",
     "recipe": "Soft and fluffy cinnamon roll cake with a sweet glaze.",
     "image": "https://i.ibb.co/wCBvY9c/48.jpg",
@@ -448,7 +392,6 @@
     "price": 20.5
   },
   {
-    "_id": "49",
     "name": "Cranberry Orange Cake",
     "recipe": "Zesty orange cake with tart cranberry filling.",
     "image": "https://i.ibb.co/MhgY5HC/49.jpg",
@@ -456,7 +399,6 @@
     "price": 21.75
   },
   {
-    "_id": "50",
     "name": "Chocolate Raspberry Cake",
     "recipe": "Rich chocolate cake with raspberry filling and chocolate frosting.",
     "image": "https://i.ibb.co/56x678F/50.jpg",
@@ -464,7 +406,6 @@
     "price": 24.5
   },
   {
-    "_id": "51",
     "name": "Pistachio Cake",
     "recipe": "Delicate pistachio cake with a light pistachio frosting.",
     "image": "https://i.ibb.co/ch7VVGb/51.jpg",
@@ -472,7 +413,6 @@
     "price": 23.0
   },
   {
-    "_id": "52",
     "name": "Blueberry Cheesecake",
     "recipe": "Creamy cheesecake with a blueberry topping and graham cracker crust.",
     "image": "https://i.ibb.co/nQS3Tv4/52.jpg",
@@ -480,7 +420,6 @@
     "price": 26.5
   },
   {
-    "_id": "53",
     "name": "Espresso Cake",
     "recipe": "Rich coffee cake with layers of espresso buttercream.",
     "image": "https://i.ibb.co/WGrBNB5/53.jpg",
@@ -488,7 +427,6 @@
     "price": 24.5
   },
   {
-    "_id": "54",
     "name": "Almond Cake",
     "recipe": "Moist almond cake with a hint of almond extract and almond frosting.",
     "image": "https://i.ibb.co/D4Tpf0c/54.jpg",
@@ -496,7 +434,6 @@
     "price": 22.25
   },
   {
-    "_id": "55",
     "name": "Mocha Cake",
     "recipe": "Chocolate and coffee flavored cake with mocha frosting.",
     "image": "https://i.ibb.co/Jjx3Q03/55.jpg",
@@ -504,7 +441,6 @@
     "price": 23.75
   },
   {
-    "_id": "56",
     "name": "Raspberry Lemon Cake",
     "recipe": "Zesty lemon cake with a sweet raspberry frosting.",
     "image": "https://i.ibb.co/gyF49X4/56.jpg",
@@ -512,7 +448,6 @@
     "price": 21.5
   },
   {
-    "_id": "57",
     "name": "Cherry Almond Cake",
     "recipe": "Almond flavored cake with cherry filling and almond frosting.",
     "image": "https://i.ibb.co/cLQwspN/57.jpg",
@@ -520,7 +455,6 @@
     "price": 22.0
   },
   {
-    "_id": "58",
     "name": "Hazelnut Cake",
     "recipe": "Rich hazelnut cake with a creamy hazelnut frosting.",
     "image": "https://i.ibb.co/ygHskWy/58.jpg",
@@ -528,7 +462,6 @@
     "price": 24.0
   },
   {
-    "_id": "59",
     "name": "Cinnamon Roll Cake",
     "recipe": "Soft and fluffy cinnamon roll cake with a sweet glaze.",
     "image": "https://i.ibb.co/rsC2MYx/59.jpg",
@@ -536,7 +469,6 @@
     "price": 20.5
   },
   {
-    "_id": "60",
     "name": "Cranberry Orange Cake",
     "recipe": "Zesty orange cake with tart cranberry filling.",
     "image": "https://i.ibb.co/1KM1mw0/60.jpg",

@@ -32,7 +32,7 @@ const Featured = () => {
               act of cutting and sharing the cake with loved ones also
               symbolizes sharing happiness and good fortune.
             </p>
-            <button className="btn glass text-red-700 hover:text-white hover:bg-black">
+            <button className="btn glass text-white bg-purple-700 hover:bg-black">
               Read More
             </button>
           </div>

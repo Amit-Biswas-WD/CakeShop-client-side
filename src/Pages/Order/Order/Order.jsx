@@ -2,7 +2,7 @@ import { useState } from "react";
 import Cover from "../../Shared/Cover/Cover";
 import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 import "react-tabs/style/react-tabs.css";
-import useMenu from "../../../hooks/useHooks";
+import useMenu from "../../../hooks/useMenu";
 import OrdarTab from "../OrderTab/OrdarTab";
 import { useParams } from "react-router-dom";
 import { Helmet } from "react-helmet-async";

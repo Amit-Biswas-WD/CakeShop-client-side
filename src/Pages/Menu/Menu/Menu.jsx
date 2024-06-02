@@ -1,6 +1,6 @@
 import { Helmet } from "react-helmet-async";
 // import Cover from "../../Shared/Cover/Cover";
-import useMenu from "../../../hooks/useHooks";
+import useMenu from "../../../hooks/useMenu";
 // import SectionTitle from "../../../Components/SectionTitle/SectionTitle";
 import MenuCategory from "../MenuCategory/MenuCategory";
 
